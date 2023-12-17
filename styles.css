@@ -47,6 +47,7 @@ body {
 }
 
 .imagenes-table {
+    height: 350px;
     padding: 1em;
     display: flex;
     justify-content: space-around;
@@ -59,7 +60,7 @@ body {
 }
 
 .imagen:hover {
-    width: 350px;
+    width: 330px;
 }
 
 .imagen:active {
